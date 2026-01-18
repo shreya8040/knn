@@ -4,7 +4,7 @@
 
 To implement KNN algorithm visually
 
-● Implemented KNN visualization in a simple way
+● Implemented KNN visualization using p5
 ● Project idea and aid from Codédex
 
 `Sample:`
