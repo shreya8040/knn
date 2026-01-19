@@ -2,7 +2,7 @@
 
 **Goal:**
 
-To implement KNN algorithm visually
+To implement the KNN algorithm visually
 
 ● Implemented KNN visualization using p5
 ● Project idea and aid from Codédex
